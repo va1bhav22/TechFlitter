@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    },
+    {
+      "id": 2,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    },
+    {
+      "id": 3,
+      "name": "vaibhav",
+      "Age": "778",
+      "Designation": "web"
+    },
+    {
+      "id": 4,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    },
+    {
+      "id": 5,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    },
+    {
+      "id": 6,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    },
+    {
+      "id": 7,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    },
+    {
+      "id": 8,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    },
+    {
+      "id": 9,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    },
+    {
+      "id": 10,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    },
+    {
+      "id": 11,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    },
+    {
+      "id": 12,
+      "name": "smith",
+      "Age": "22",
+      "Designation": "Web Developer"
+    }
+  ]
+}
